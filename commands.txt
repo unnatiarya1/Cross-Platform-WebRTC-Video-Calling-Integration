@@ -1,0 +1,4 @@
+>>> to compile :  sudo ldconfig && make
+
+>>> to run : ./webrtc-sendrecv-flutter
+

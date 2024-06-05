@@ -1,0 +1,12 @@
+Build started at 2024-04-23T16:10:36.669031
+Main binary: /usr/bin/python3
+Python system: Linux
+The Meson build system
+Version: 0.45.1
+Source dir: /home/orion/c++client/gstreamer-1.18.0
+Build dir: /home/orion/c++client/gstreamer-1.18.0/build
+Build type: native build
+
+meson.build:600:9: ERROR: lexer
+  summary({'Plugins':plugin_names}, list_sep: ', ')
+         ^
